@@ -18,6 +18,7 @@ I will create a DAO for this small example, so we can showcase how to talk to mu
 ```text
 mkdir solo
 cd solo
+box
 coldbox create app name=solo skeleton=AdvancedScript --installColdBox
 server start --rewritesEnable
 ```
